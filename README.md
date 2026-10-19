@@ -4,7 +4,7 @@ Hi, I'm Waltor 👋
 
 I help factories, device makers, and inspection teams turn messy hardware-and-data problems into production-ready systems — from edge firmware to cloud dashboards.
 
-🟢 **Available for freelance & contract work — 接单中.**
+🟢 **Available for freelance & contract work.**
 
 ---
 
@@ -38,6 +38,6 @@ I help factories, device makers, and inspection teams turn messy hardware-and-da
 
 ---
 
-🌐 Also on: 程序员客栈 · 猿急送 · 码市 (freelance platforms)
+🌐 Also on: 程序员客栈 · 猿急送 · 码市
 
 📫 waltor0824@outlook.com
