@@ -38,6 +38,6 @@ I help factories, device makers, and inspection teams turn messy hardware-and-da
 
 ---
 
-🌐 Also on: 程序员客栈 · 猿急送 · 码市
+🌐 Also on: Upwork
 
 📫 waltor0824@outlook.com
